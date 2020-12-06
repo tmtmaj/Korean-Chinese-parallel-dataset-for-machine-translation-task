@@ -1,4 +1,4 @@
-# Korean-Chinese corpus
+# Korean-Chinese corpus for machine translation (bilingual dataset)  
 These datasets are Korean-Chinese corpus for machine translation task. 
 
 This dataset was used in https://arxiv.org/abs/1911.11008, see the paper for more information.
