@@ -7,7 +7,7 @@ These datasets are Korean-Chinese corpus for machine translation task.
 This dataset was used in https://arxiv.org/abs/1911.11008, see the paper for more information.
 
 
-# Dong-A dataset (25M)
+# Dong-A dataset (250K)
 
 link: 
 
@@ -20,7 +20,7 @@ key code: vvem
 
 
 
-# SWRC dataset (5M)
+# SWRC dataset (50K)
 
 link: 
 
