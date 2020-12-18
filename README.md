@@ -20,9 +20,9 @@ key code: vvem
 
 
 
-# SWRC dataset (50K) from http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus
+# SWRC dataset (50K)
 
-We remove some erroneous sentences from the original parallel dataset.
+We remove some erroneous sentences in the original parallel dataset from http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus.
 
 link: 
 
