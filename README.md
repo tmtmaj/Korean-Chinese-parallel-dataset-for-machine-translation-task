@@ -11,9 +11,7 @@ This dataset was used in https://arxiv.org/abs/1911.11008, see the paper for mor
 
 link: 
 
-1. https://pan.baidu.com/s/1YfH-PM0YwU_GOZdkNGNKQQ (Baidu cloud)
-
-key code: vvem 
+1. https://pan.baidu.com/s/1YfH-PM0YwU_GOZdkNGNKQQ (Baidu cloud, key code: vvem)
 
 2. https://drive.google.com/file/d/1Gd3xbdjQjd8l85Ugu1gZFaY0D-TbCEcF/view?usp=sharing (google drive)
 
@@ -22,13 +20,11 @@ key code: vvem
 
 # SWRC dataset (50K)
 
-We remove some erroneous sentences in the original parallel dataset from http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus.
+We remove some erroneous sentences in the original parallel dataset from http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus.  
 
 link: 
 
-1. https://pan.baidu.com/s/130ZSTjmfTZL_xTi4Jdp75A (Baidu cloud)
-
-key code: gw5s 
+1. https://pan.baidu.com/s/130ZSTjmfTZL_xTi4Jdp75A (Baidu cloud,key code: gw5s)
 
 2. https://drive.google.com/file/d/1wIbUW2APRPx-P7sRc6nZi3AZ9rBPUv4u/view?usp=sharing (google drive)
 
